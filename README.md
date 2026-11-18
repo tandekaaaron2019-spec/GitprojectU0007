@@ -1,1 +1,1 @@
-#My first repo
+This is the notepad for my project
